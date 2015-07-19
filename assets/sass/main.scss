@@ -631,9 +631,9 @@
 
 			&.vertical {
 				li {
-					display: block;
+					display: inline-block;
 					padding: (_size(element-margin) * 0.5) 0 0 0;
-
+      
 					&:first-child {
 						padding-top: 0;
 					}
@@ -667,7 +667,7 @@
 
 					> * {
 						margin-bottom: 0;
-                        display: inline;
+                        display: inline-block;
 					}
 				}
 
