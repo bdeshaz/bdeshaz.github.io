@@ -51,8 +51,7 @@
 
 		.image img {
 			position: relative;
-			-ms-behavior: url("assets/js/ie/PIE.htc");
-		}
+        }
 
 /* Header */
 

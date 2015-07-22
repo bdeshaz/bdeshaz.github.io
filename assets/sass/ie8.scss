@@ -55,11 +55,12 @@
 
 		&:before, &:after {
 			display: none !important;
-		}
+    
 
 		img {
 			position: relative;
 			-ms-behavior: url('assets/js/ie/PIE.htc');
+            border: 1px solid black;
 		}
 	}
 
